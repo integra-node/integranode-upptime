@@ -31,6 +31,6 @@ sites:
   #   expectedStatusCodes:
   #     - 200
 
-  notifications:
-    - type: google-chat
-      endpoint: $GOOGLE_CHAT_WEBHOOK
+notifications:
+  - type: google-chat
+    endpoint: $GOOGLE_CHAT_WEBHOOK
