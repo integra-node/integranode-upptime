@@ -30,3 +30,7 @@ sites:
   #   url: http://34.95.131.76:8080/healthz # Reemplazar con tu IP y puerto real
   #   expectedStatusCodes:
   #     - 200
+
+  notifications:
+    - type: google-chat
+      endpoint: $GOOGLE_CHAT_WEBHOOK
