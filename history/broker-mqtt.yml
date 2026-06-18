@@ -1,7 +1,7 @@
 url: mqtt.integranode.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-18T00:15:02.579Z
+status: up
+code: 200
+responseTime: 162
+lastUpdated: 2026-06-18T17:27:14.650Z
 startTime: 2026-05-29T20:17:52.411Z
 generator: Upptime <https://github.com/upptime/upptime>
